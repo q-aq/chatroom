@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>830</width>
+    <height>579</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTextEdit" name="userlist">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>30</y>
+     <width>141</width>
+     <height>401</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_close">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>450</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}</string>
+   </property>
+   <property name="text">
+    <string>关闭聊天</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>141</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>用户列表</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>60</y>
+     <width>661</width>
+     <height>371</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>710</x>
+     <y>450</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}</string>
+   </property>
+   <property name="text">
+    <string>发送</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>450</y>
+     <width>521</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>9</x>
+     <y>520</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}</string>
+   </property>
+   <property name="text">
+    <string>刷新</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>710</x>
+     <y>520</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}</string>
+   </property>
+   <property name="text">
+    <string>加密发送</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>520</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}</string>
+   </property>
+   <property name="text">
+    <string>选择文件</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>520</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}</string>
+   </property>
+   <property name="text">
+    <string>选择表情</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>163</x>
+     <y>5</y>
+     <width>721</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#label{color: #34495e;font-size: 26px;}&lt;/string&gt;</string>
+   </property>
+   <property name="text">
+    <string>管理端</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>520</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}</string>
+   </property>
+   <property name="text">
+    <string>选择颜色</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

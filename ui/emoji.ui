@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1019</width>
+    <height>860</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1019</width>
+    <height>860</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1019</width>
+    <height>860</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>1001</width>
+     <height>781</height>
+    </rect>
+   </property>
+   <widget class="QLabel" name="lb_11">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-11.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_12">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>0</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-12.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_13">
+    <property name="geometry">
+     <rect>
+      <x>393</x>
+      <y>0</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-13.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_14">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>0</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-14.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_15">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>0</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-15.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QWidget" name="widget_2" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>210</y>
+      <width>1001</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <widget class="QPushButton" name="btn_11">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_12">
+     <property name="geometry">
+      <rect>
+       <x>250</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_13">
+     <property name="geometry">
+      <rect>
+       <x>440</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_14">
+     <property name="geometry">
+      <rect>
+       <x>640</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_15">
+     <property name="geometry">
+      <rect>
+       <x>859</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QLabel" name="lb_21">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>265</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-21.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_22">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>260</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-22.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_23">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>260</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-23.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_24">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>260</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-24.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_25">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>260</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-25.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QWidget" name="widget_3" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>470</y>
+      <width>1001</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <widget class="QPushButton" name="btn_21">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_22">
+     <property name="geometry">
+      <rect>
+       <x>250</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_23">
+     <property name="geometry">
+      <rect>
+       <x>440</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_24">
+     <property name="geometry">
+      <rect>
+       <x>640</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_25">
+     <property name="geometry">
+      <rect>
+       <x>859</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QLabel" name="lb_31">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>520</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-31.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_32">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>520</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-32.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_33">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>520</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-33.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_34">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>520</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-34.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lb_35">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>520</y>
+      <width>201</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sqr/emoji-35.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QWidget" name="widget_4" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>730</y>
+      <width>1001</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <widget class="QPushButton" name="btn_31">
+     <property name="geometry">
+      <rect>
+       <x>50</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_32">
+     <property name="geometry">
+      <rect>
+       <x>250</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_33">
+     <property name="geometry">
+      <rect>
+       <x>440</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_34">
+     <property name="geometry">
+      <rect>
+       <x>640</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btn_35">
+     <property name="geometry">
+      <rect>
+       <x>859</x>
+       <y>10</y>
+       <width>101</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+     </property>
+     <property name="text">
+      <string>选择</string>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QWidget" name="widget_5" native="true">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>800</y>
+     <width>1001</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <widget class="QPushButton" name="btn_browse">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>10</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton{ border-radius: 6;color: white;background-color: #34495e;}
+QPushButton:pressed{ border-radius: 6;color: white;background-color: #517382;}
+</string>
+    </property>
+    <property name="text">
+     <string>浏览</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>10</y>
+      <width>341</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

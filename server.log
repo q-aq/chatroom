@@ -1,0 +1,74 @@
+INFO:root:Successfully logged in to the server
+INFO:root:Successfully logged in to the client
+INFO:root:welcome('10.16.13.69', 7618)link
+INFO:root:Server successfully received information:用户:123连接成功
+INFO:root:Client successfully received informatioin:欢迎
+ERROR:root:Server receiving information error:[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+ERROR:root:Client receiving information error:[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+ERROR:root:Connection client error:[WinError 10038] 在一个非套接字上尝试了一个操作。
+INFO:root:Client successfully received informatioin:聊天室将于3秒后关闭
+ERROR:root:Client sending information error:[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+INFO:root:Successfully logged in to the server
+INFO:root:Successfully logged in to the client
+INFO:root:welcome('10.16.13.69', 2419)link
+INFO:root:Server successfully received information:用户:123连接成功
+INFO:root:Client successfully received informatioin:欢迎
+INFO:root:Client successfully received informatioin:你好
+INFO:root:Client successfully received informatioin:
+INFO:root:Server successfully received information:你好
+INFO:root:Server successfully received information:
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-25.png" />
+ERROR:root:Client receiving information error:[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+INFO:root:Client successfully received informatioin:聊天室将于3秒后关闭
+ERROR:root:Server receiving information error:[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+ERROR:root:Connection client error:[WinError 10038] 在一个非套接字上尝试了一个操作。
+ERROR:root:Client sending information error:[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+INFO:root:Successfully logged in to the server
+INFO:root:Successfully logged in to the client
+INFO:root:welcome('192.168.0.101', 2252)link
+INFO:root:Server successfully received information:用户:123连接成功
+INFO:root:Client successfully received informatioin:欢迎
+INFO:root:Server successfully received information:你好
+INFO:root:Server successfully received information:
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-24.png" />
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-24.png" />
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-24.png" />
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-24.png" />
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-24.png" />
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-25.png" />
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-25.png" />
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-25.png" />
+INFO:root:Client successfully received informatioin:<img src="F:\text.c\pythonwork\sqr\emoji-25.png" />
+ERROR:root:Client receiving information error:[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+ERROR:root:Connection client error:[WinError 10038] 在一个非套接字上尝试了一个操作。
+INFO:root:Client successfully received informatioin:聊天室将于3秒后关闭
+ERROR:root:Server receiving information error:[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+ERROR:root:Client sending information error:[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+INFO:root:Successfully logged in to the client
+ERROR:root:Unable to connect to serverr:[WinError 10061] 由于目标计算机积极拒绝，无法连接。
+INFO:root:Successfully logged in to the server
+INFO:root:Successfully logged in to the server
+INFO:root:Successfully logged in to the server
+INFO:root:Successfully logged in to the client
+INFO:root:welcome('10.16.227.34', 13338)link
+INFO:root:Server successfully received information:用户:123连接成功
+INFO:root:Client successfully received informatioin:欢迎
+INFO:root:Server successfully received information:你好
+INFO:root:Server successfully received information:
+INFO:root:Client successfully received informatioin:你好
+INFO:root:Client successfully received informatioin:
+INFO:root:Successfully logged in to the server
+INFO:root:Successfully logged in to the client
+INFO:root:welcome('10.16.78.114', 7175)link
+INFO:root:Server successfully received information:用户:222连接成功
+INFO:root:Client successfully received informatioin:欢迎
+INFO:root:Client successfully received informatioin:1111
+INFO:root:Client successfully received informatioin:
+INFO:root:Server successfully received information:1111
+INFO:root:Server successfully received information:
+INFO:root:Server successfully received information:111
+INFO:root:Server successfully received information:
+ERROR:root:Client receiving information error:[WinError 10038] 在一个非套接字上尝试了一个操作。
+INFO:root:Server successfully received information:用户:222退出聊天
+ERROR:root:Server sending information error[WinError 10038] 在一个非套接字上尝试了一个操作。
+ERROR:root:Connection client error:[WinError 10038] 在一个非套接字上尝试了一个操作。
